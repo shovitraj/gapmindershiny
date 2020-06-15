@@ -67,9 +67,10 @@ p2
 
 </center>
 
-- [Gapminder information](https://https://www.gapminder.org/)  
+**Some Links** 
 
-- [Shinyapp](https://shovitraj.shinyapps.io/Gapminder_Continent/)  
+- [Gapminder information](https://https://www.gapminder.org/)  
+- [Shinyapp](https://shovitraj.shinyapps.io/Gapminder_Continent/)
 - File: [ui.R](ui.R)    
 - File: [server.R](server.R)    
 
