@@ -1,0 +1,12 @@
+name: Gapminder_Continent
+title: Gapminder_Continent
+username:
+account: shovitraj
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2458970
+bundleId: 3273844
+url: https://shovitraj.shinyapps.io/Gapminder_Continent/
+when: 1592252942.88274
+asMultiple: FALSE
+asStatic: FALSE
