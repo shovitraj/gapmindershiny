@@ -4,6 +4,6 @@ This repository contains files for Assignmnent 3, which was a part of a course D
 
 
 Link to [ShinyApp](https://shovitraj.shinyapps.io/Gapminder_Continent/).   
-File: ui.R.   
-File: server.R.    
+File: [ui.R](ui.R)
+File: [server.R](server.R)   
 
